@@ -50,7 +50,7 @@ Similar public health analyses were explored across Python, R, Tableau, and Powe
 
 ## Portfolio Reconstruction
 
-This repository is a portfolio reconstruction based on coursework completed in **ISM 6419: Data Visualization for Storytelling**.
+This repository is a portfolio reconstruction based on coursework completed in **ISM 4930: Data Visualization**.
 
 The original coursework included COVID-19 analysis using Python, R, Tableau, and Power BI. Selected code in this repository has been cleaned and reconstructed from coursework materials and documented analysis workflows for portfolio presentation.
 
