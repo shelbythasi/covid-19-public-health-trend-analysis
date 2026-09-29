@@ -48,6 +48,26 @@ COVID-19 trends were compared across Tampa Bay counties, including:
 
 Similar public health analyses were explored across Python, R, Tableau, and Power BI, demonstrating how the same underlying data can be transformed and communicated through different analytics platforms.
 
+## Visualization Highlights
+
+### Python — Hillsborough COVID-19 Trends
+
+![Hillsborough Python Analysis](images/hillsborough-python-analysis.png)
+
+Python was used to visualize daily COVID-19 cases alongside a moving average to make broader case trends easier to interpret.
+
+### R — Hillsborough COVID-19 Trends
+
+![Hillsborough R Analysis](images/hillsborough-r-analysis.png)
+
+R and ggplot2 were used to recreate the Hillsborough County analysis and compare daily case volatility with the moving-average trend.
+
+### Tampa Bay County Comparison
+
+![Tampa Bay County Comparison](images/tampa-bay-county-comparison.png)
+
+Daily case trends were compared across Hillsborough, Pinellas, and Pasco counties to highlight differences in outbreak patterns across the Tampa Bay area.
+
 ## Portfolio Reconstruction
 
 This repository is a portfolio reconstruction based on coursework completed in **ISM 4930: Data Visualization**.
