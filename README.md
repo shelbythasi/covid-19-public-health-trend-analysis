@@ -2,7 +2,7 @@
 
 ## Overview
 
-Public health analytics project examining COVID-19 trends in Florida using Python, R, Tableau, and Power BI.
+Public health analytics project examining COVID-19 trends in Florida using Python and R, with related coursework spanning Tableau and Power BI.
 
 The analysis focuses on daily case patterns, rolling averages, and county-level comparisons to make short-term fluctuations easier to interpret and highlight broader trends over time.
 
