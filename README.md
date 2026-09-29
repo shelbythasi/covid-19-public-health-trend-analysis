@@ -86,3 +86,10 @@ The restricted course dataset is not included in this repository.
 - Python and R programming
 - Data visualization
 - Cross-platform analytics
+
+## Project Files
+
+- [Python — Hillsborough COVID-19 Analysis](python/Q3_Hillsborough.ipynb)
+- [R — Hillsborough COVID-19 Analysis](r/Q3_Hillsborough.R)
+- [R — Multi-County COVID-19 Analysis](r/Q5%2BQ6.R)
+- [Data Notes](docs/data-notes.md)
