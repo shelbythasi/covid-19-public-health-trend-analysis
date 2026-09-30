@@ -76,6 +76,12 @@ The original coursework included COVID-19 analysis using Python, R, Tableau, and
 
 The restricted course dataset is not included in this repository.
 
+## Healthcare IT Coursework Context
+
+Related coursework in **ISM 4041: Ethics in Information Technology** included healthcare IT topics such as electronic health records (EHR), HIPAA and health data privacy, clinical decision support, and telehealth. These topics reflect academic domain exposure rather than professional experience administering clinical systems.
+
+See [Healthcare IT Coursework Exposure](docs/healthcare-it-coursework.md) for a concise summary of the healthcare concepts studied.
+
 ## Skills Demonstrated
 
 - Public health data analysis
@@ -93,3 +99,4 @@ The restricted course dataset is not included in this repository.
 - [R — Hillsborough COVID-19 Analysis](r/Q3_Hillsborough.R)
 - [R — Multi-County COVID-19 Analysis](r/Q5%2BQ6.R)
 - [Data Notes](docs/data-notes.md)
+- [Healthcare IT Coursework Exposure](docs/healthcare-it-coursework.md)
